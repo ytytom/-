@@ -1,0 +1,14 @@
+#server:
+
+#  port: 9998
+
+#
+student:
+  name: 杨廷耀
+  age: 23
+  Email: 362368904@qq.com
+#
+#datasource:
+#  url: jdbc:oracle:thin:@172.20.17.199:1521:orck
+#  username: mmuwf
+#  password: mmpwf1
